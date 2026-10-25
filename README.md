@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pucenty
 - 👀 I’m interested in Cloud Computing and Security
-- 🌱 I’m currently aiming for GCP Cloud Architect Certificate
-- 💞️ I’m looking to collaborate on cloud solutions
-- 📫 How to reach me ... See Linkedin link on my profile.
+- 🌱 I’m certified GCP Cloud DevOps Engineer (and soon GCP Network Engineer as well :))
+- 💞️ I’m looking to collaborate on security and/or cloud solutions
+- 📫 How to reach me ... https://www.linkedin.com/in/krzysztof-niedzielski
 
 <!---
 Pucenty/Pucenty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
