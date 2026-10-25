@@ -3,7 +3,7 @@
 - 🌱 I’m certified GCP Cloud DevOps Engineer (and soon GCP Network Engineer as well :))
 - 💞️ I’m looking to collaborate on security and/or cloud solutions
 - 📫 How to reach me ... https://www.linkedin.com/in/krzysztof-niedzielski
-- ✉️ Resume: [Lead Cloud DevSecOps Engineer](https://github.com/Pucenty/General-Repo/blob/22dc48058b3476697441bbd1a56b4869bd05d38c/CVs/krzysztof-niedzielski-resume-v21.pdf) 
+- ✉️ Resume: [Lead Cloud DevSecOps Engineer](CVs/krzysztof-niedzielski-resume-v22.pdf) 
 
 <!---
 Pucenty/Pucenty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
